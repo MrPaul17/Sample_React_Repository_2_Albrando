@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sample_React_Repository_2_Albrando/static/css/main.88404e20.css",
+    "main.js": "/Sample_React_Repository_2_Albrando/static/js/main.06831541.js",
+    "static/js/787.c5ca4160.chunk.js": "/Sample_React_Repository_2_Albrando/static/js/787.c5ca4160.chunk.js",
+    "index.html": "/Sample_React_Repository_2_Albrando/index.html",
+    "main.88404e20.css.map": "/Sample_React_Repository_2_Albrando/static/css/main.88404e20.css.map",
+    "main.06831541.js.map": "/Sample_React_Repository_2_Albrando/static/js/main.06831541.js.map",
+    "787.c5ca4160.chunk.js.map": "/Sample_React_Repository_2_Albrando/static/js/787.c5ca4160.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88404e20.css",
+    "static/js/main.06831541.js"
+  ]
+}
